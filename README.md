@@ -1,5 +1,7 @@
 # react-navigator
 
+Shows Stack, Drawer, Bottom Tab Navigators, all in one code, interchangeable for each one
+
 ## Screenshots
 
 ### Stack Navigator
