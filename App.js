@@ -19,6 +19,7 @@ const BottomTab = createBottomTabNavigator();
 
 function App() {
   return (
+    //'BottomTab' can be interchanged with 'Stack' or 'Drawer' to display the other Navigator types if desired
     <NavigationContainer>
       <BottomTab.Navigator initialRouteName="Home">
         <BottomTab.Screen name="Home" component={HomeScreen} />
