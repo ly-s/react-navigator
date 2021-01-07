@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Drawer-Navigation",
-    "slug": "Drawer-Navigation",
+    "name": "React-Navigation",
+    "slug": "React-Navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
